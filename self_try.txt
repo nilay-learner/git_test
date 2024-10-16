@@ -1,0 +1,4 @@
+After learning to use git from odin project 
+I have made my first file.
+Now let see if i can commit the changed version
+
